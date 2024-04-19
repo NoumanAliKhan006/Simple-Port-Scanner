@@ -10,7 +10,7 @@ This Python script allows you to scan ports on a target host to check for open p
 # Usage
 # 1. Clone the repository:
 
-```git clone https://github.com/your_username/simple-port-scanner.git```
+```git clone https://github.com/NoumanAliKhan006/Simple-Port-Scanner.git```
 
 # 2. Navigate to the directory:
 ```cd simple-port-scanner```
